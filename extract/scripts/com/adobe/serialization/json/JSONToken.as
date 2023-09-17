@@ -1,0 +1,18 @@
+package com.adobe.serialization.json
+{
+   public class JSONToken
+   {
+       
+      
+      public var type:int;
+      
+      public var value:Object;
+      
+      public function JSONToken(param1:int = -1, param2:Object = null)
+      {
+         super();
+         this.type = param1;
+         this.value = param2;
+      }
+   }
+}

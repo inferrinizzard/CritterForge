@@ -1,0 +1,14 @@
+package com.edgebee.atlas.ui.gadgets
+{
+   import mx.core.BitmapAsset;
+   
+   public class AlertWindow_WarningIconPng extends BitmapAsset
+   {
+       
+      
+      public function AlertWindow_WarningIconPng()
+      {
+         super();
+      }
+   }
+}
